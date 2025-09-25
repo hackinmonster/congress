@@ -1,0 +1,419 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1901758,1471875,2025-01-15,House,"On Motion to Suspend the Rules and Pass RC# 14",423,0,0,10,433
+1901768,1473438,2025-01-22,House,"On Motion to Suspend the Rules and Pass RC# 22",416,0,0,17,433
+1901772,1483891,2025-02-06,House,"On Agreeing to the Amendment: Trahan of Massachusetts Part B Amendment No. 2 RC# 32",182,226,0,24,432
+1901772,1483892,2025-02-06,House,"On Passage RC# 33",312,108,0,13,433
+1901776,1471899,2025-01-15,House,"On Motion to Suspend the Rules and Pass RC# 13",419,2,0,12,433
+1901782,1480475,2025-02-04,House,"On Motion to Suspend the Rules and Pass RC# 28",412,1,0,20,433
+1901783,1489900,2025-02-13,House,"On Passage RC# 42",264,155,0,14,433
+1901804,1471424,2025-01-13,House,"On Motion to Suspend the Rules and Pass RC# 8",407,0,0,27,434
+1901818,1471158,2025-01-03,House,"On Ordering the Previous Question RC# 3",216,210,0,8,434
+1901818,1471159,2025-01-03,House,"On Motion to Commit with Instructions RC# 4",209,214,0,11,434
+1901818,1471160,2025-01-03,House,"On Agreeing to the Resolution RC# 5",215,209,0,10,434
+1901839,1545642,2025-04-10,House,"On Motion to Recommit RC# 101",211,215,0,7,433
+1901839,1545643,2025-04-10,House,"On Passage RC# 102",220,208,0,5,433
+1901840,1471925,2025-01-15,House,"On Passage RC# 15",423,1,0,9,433
+1901851,1471666,2025-01-14,House,"On Motion to Suspend the Rules and Pass RC# 10",426,0,0,8,434
+1901853,1471231,2025-01-09,House,"On Passage RC# 7",243,140,1,50,434
+1901853,1476200,2025-01-28,Senate,"On Cloture on the Motion to Proceed H.R. 23 RC# 22",54,45,0,1,100
+1901854,1471395,2025-01-13,House,"On Motion to Suspend the Rules and Pass RC# 9",405,5,0,24,434
+1901872,1484521,2025-02-07,House,"On Motion to Recommit RC# 34",205,207,0,20,432
+1901872,1484522,2025-02-07,House,"On Passage RC# 35",226,188,0,19,433
+1901884,1471656,2025-01-14,House,"On Motion to Recommit RC# 11",208,218,0,8,434
+1901884,1471657,2025-01-14,House,"On Passage RC# 12",218,206,1,9,434
+1901890,1472901,2025-01-21,House,"On Motion to Suspend the Rules and Pass RC# 18",414,0,0,18,432
+1901907,1472996,2025-01-21,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 19",413,0,0,19,432
+1901912,1471161,2025-01-07,House,"On Passage RC# 6",264,159,0,11,434
+1901919,1474164,2025-01-23,House,"On Motion to Recommit RC# 26",205,216,0,12,433
+1901919,1474165,2025-01-23,House,"On Passage RC# 27",217,204,1,11,433
+1901920,1472066,2025-01-16,House,"On Motion to Recommit RC# 16",206,213,0,15,434
+1901920,1472067,2025-01-16,House,"On Passage RC# 17",274,145,0,15,434
+1901921,1565412,2025-05-05,House,"On Motion to Suspend the Rules and Pass RC# 116",349,42,0,42,433
+1901951,1488648,2025-02-12,House,"On Motion to Recommit RC# 40",205,213,0,15,433
+1901951,1488649,2025-02-12,House,"On Passage RC# 41",212,208,0,13,433
+1903351,1471233,2025-01-09,Senate,"On Cloture on the Motion to Proceed S. 5 RC# 1",84,9,0,6,99
+1903351,1471377,2025-01-13,Senate,"On the Motion to Proceed S. 5 RC# 2",82,10,0,6,98
+1903351,1471889,2025-01-15,Senate,"On the Amendment S.Amdt. 14 to S.Amdt. 8 to S. 5 (No short title on file) RC# 3",70,25,0,4,99
+1903351,1471890,2025-01-15,Senate,"On the Amendment S.Amdt. 23 to S. 5 (No short title on file) RC# 4",46,49,0,4,99
+1903351,1472284,2025-01-17,Senate,"On the Cloture Motion S. 5 RC# 5",61,35,0,3,99
+1903351,1472536,2025-01-20,Senate,"On the Amendment S.Amdt. 8 to S. 5 (No short title on file) RC# 6",75,24,0,0,99
+1903351,1472537,2025-01-20,Senate,"On Passage of the Bill S. 5 RC# 7",64,35,0,0,99
+1903351,1473443,2025-01-22,House,"On Passage RC# 23",263,156,0,14,433
+1905585,1504161,2025-03-03,Senate,"On Cloture on the Motion to Proceed S. 9 RC# 100",51,45,0,4,100
+1910135,1571138,2025-05-13,House,"On Motion to Suspend the Rules and Pass RC# 124",362,50,2,19,433
+1910191,1568837,2025-05-08,House,"On Motion to Recommit RC# 121",203,213,0,16,432
+1910191,1568838,2025-05-08,House,"On Passage RC# 122",211,206,0,16,433
+1910216,1595817,2025-06-26,House,"On Passage RC# 184",231,182,0,18,431
+1916962,1474255,2025-01-23,House,"On Motion to Suspend the Rules and Pass RC# 24",359,62,0,11,432
+1916983,1526522,2025-03-24,House,"On Motion to Suspend the Rules and Pass RC# 72",405,0,0,26,431
+1922469,1502187,2025-02-27,House,"On Passage RC# 53",221,198,2,12,433
+1922469,1543468,2025-04-09,Senate,"On the Motion to Proceed H.J.Res. 20 RC# 206",52,42,0,6,100
+1922469,1545583,2025-04-10,Senate,"On the Joint Resolution H.J.Res. 20 RC# 207",53,44,0,3,100
+1922693,1473659,2025-01-22,Senate,"On Cloture on the Motion to Proceed S. 6 RC# 11",52,47,0,1,100
+1926635,1565444,2025-05-05,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 115",376,5,0,52,433
+1926657,1532696,2025-03-31,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 84",388,0,0,42,430
+1926714,1530713,2025-03-27,House,"On Passage RC# 77",203,182,0,45,430
+1926714,1535736,2025-04-02,Senate,"On the Motion to Proceed H.J.Res. 24 RC# 161",51,46,0,3,100
+1926714,1537084,2025-04-03,Senate,"On the Joint Resolution H.J.Res. 24 RC# 162",53,42,0,5,100
+1926737,1515239,2025-03-10,House,"On Motion to Suspend the Rules and Pass RC# 63",402,1,0,29,432
+1926891,1474162,2025-01-23,House,"On Passage RC# 25",279,141,0,13,433
+1927158,1559658,2025-04-28,House,"On Motion to Suspend the Rules and Pass RC# 104",409,2,0,22,433
+1933735,1474537,2025-01-22,House,"On Ordering the Previous Question RC# 20",214,204,0,15,433
+1933735,1474538,2025-01-22,House,"On Agreeing to the Resolution RC# 21",213,204,0,16,433
+1933785,1543954,2025-04-07,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 89",411,0,0,22,433
+1933813,1515629,2025-03-11,House,"On Passage RC# 71",292,132,1,7,432
+1933813,1528568,2025-03-26,Senate,"On the Motion to Proceed H.J.Res. 25 RC# 150",70,28,0,2,100
+1933813,1528569,2025-03-26,Senate,"On the Joint Resolution H.J.Res. 25 RC# 151",70,28,0,2,100
+1934158,1505857,2025-03-04,Senate,"On the Motion to Proceed S.J.Res. 3 RC# 101",70,28,0,2,100
+1934158,1505858,2025-03-04,Senate,"On the Joint Resolution S.J.Res. 3 RC# 102",70,27,0,3,100
+1939358,1485965,2025-02-10,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 36",388,7,0,38,433
+1939562,1501009,2025-02-26,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 51",424,0,0,9,433
+1941773,1485825,2025-02-10,House,"On Motion to Suspend the Rules and Pass RC# 37",408,0,0,25,433
+1943653,1567187,2025-05-06,Senate,"On the Motion to Proceed S.J.Res. 7 RC# 235",53,47,0,0,100
+1943653,1568849,2025-05-08,Senate,"On the Joint Resolution S.J.Res. 7 RC# 238",50,38,0,12,100
+1945364,1499729,2025-02-25,House,"On Motion to Suspend the Rules and Pass RC# 48",427,3,0,3,433
+1945372,1499691,2025-02-24,House,"On Motion to Suspend the Rules and Pass RC# 45",384,25,0,23,432
+1945400,1499724,2025-02-24,House,"On Motion to Suspend the Rules and Pass RC# 43",405,0,0,27,432
+1945401,1480543,2025-02-04,House,"On Motion to Suspend the Rules and Pass RC# 29",361,56,0,16,433
+1945427,1499905,2025-02-25,House,"On Motion to Suspend the Rules and Pass RC# 49",415,8,0,10,433
+1945429,1504142,2025-03-03,House,"On Motion to Suspend the Rules and Pass RC# 55",402,16,0,15,433
+1945443,1600860,2025-09-02,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 220",407,4,0,19,430
+1949931,1508639,2025-03-06,Senate,"On Cloture on the Motion to Proceed S. 331 RC# 110",82,12,0,6,100
+1949931,1517851,2025-03-13,Senate,"On the Cloture Motion S. 331 RC# 124",84,15,0,1,100
+1949931,1518145,2025-03-14,Senate,"On Passage of the Bill S. 331 RC# 127",84,16,0,0,100
+1949931,1590229,2025-06-12,House,"On Passage RC# 166",321,104,0,7,432
+1951307,1562509,2025-04-29,House,"On Motion to Suspend the Rules and Pass RC# 109",415,9,0,8,432
+1951309,1505059,2025-03-03,House,"On Motion to Suspend the Rules and Pass RC# 54",417,0,0,16,433
+1951315,1568045,2025-05-07,House,"On Passage RC# 120",266,153,0,14,433
+1951316,1512509,2025-03-10,House,"On Motion to Suspend the Rules and Pass RC# 64",410,1,0,21,432
+1951370,1499585,2025-02-24,House,"On Motion to Suspend the Rules and Pass RC# 44",396,15,0,21,432
+1951372,1588415,2025-06-10,House,"On Passage RC# 163",266,148,1,17,432
+1951373,1595799,2025-06-26,House,"On Passage RC# 183",246,160,0,25,431
+1953362,1501050,2025-02-26,Senate,"On the Joint Resolution S.J.Res. 10 RC# 95",47,52,0,1,100
+1955911,1560898,2025-04-28,House,"On Motion to Suspend the Rules and Pass RC# 103",365,42,0,25,432
+1955961,1501063,2025-02-26,House,"On Passage RC# 52",220,206,1,6,433
+1955961,1502471,2025-02-27,Senate,"On the Joint Resolution H.J.Res. 35 RC# 97",52,47,0,1,100
+1955969,1483235,2025-02-05,House,"On Ordering the Previous Question RC# 30",212,208,0,13,433
+1955969,1483236,2025-02-05,House,"On Agreeing to the Resolution RC# 31",215,208,0,10,433
+1956177,1500033,2025-02-25,Senate,"On the Motion to Proceed S.J.Res. 11 RC# 91",54,42,0,4,100
+1956177,1500034,2025-02-25,Senate,"On the Joint Resolution S.J.Res. 11 RC# 92",54,44,0,2,100
+1956177,1508399,2025-03-06,House,"On Passage RC# 61",221,202,1,8,432
+1956409,1567121,2025-05-06,Senate,"On the Motion to Proceed S.J.Res. 13 RC# 233",53,46,0,1,100
+1956409,1568242,2025-05-07,Senate,"On the Joint Resolution S.J.Res. 13 RC# 237",52,47,0,1,100
+1956409,1575006,2025-05-20,House,"On Passage RC# 137",220,207,0,6,433
+1956524,1501043,2025-02-26,Senate,"On the Motion to Proceed S.J.Res. 12 RC# 96",52,47,0,1,100
+1958564,1532088,2025-03-31,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 85",385,0,0,45,430
+1958581,1515423,2025-03-10,House,"On Motion to Suspend the Rules and Pass RC# 65",406,9,0,17,432
+1961206,1530702,2025-03-27,House,"On Agreeing to the Amendment: Scott of Virginia Amendment No. 3 RC# 7",199,214,0,23,436
+1961206,1530703,2025-03-27,House,"On Agreeing to the Amendment: Self of Texas Amendment No. 4 RC# 80",92,321,0,23,436
+1961206,1530704,2025-03-27,House,"On Agreeing to the Amendment: Tlaib of Michigan Amendment No. 5 RC# 81",3,410,0,23,436
+1961206,1530705,2025-03-27,House,"On Agreeing to the Amendment: Tlaib of Michigan Amendment No. 6 RC# 82",4,404,1,27,436
+1961206,1530706,2025-03-27,House,"On Passage RC# 83",241,169,0,20,430
+1961261,1543945,2025-04-07,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 90",412,0,0,21,433
+1964745,1515666,2025-03-11,House,"On Passage RC# 68",295,127,0,10,432
+1964760,1487599,2025-02-11,House,"On Ordering the Previous Question RC# 38",210,184,0,39,433
+1964760,1487600,2025-02-11,House,"On Agreeing to the Resolution RC# 39",216,205,0,12,433
+1968307,1507380,2025-03-05,House,"On Passage RC# 59",222,203,0,7,432
+1968307,1561819,2025-04-29,Senate,"On the Motion to Proceed H.J.Res. 42 RC# 222",52,46,0,2,100
+1968307,1563510,2025-04-30,Senate,"On the Joint Resolution H.J.Res. 42 RC# 223",52,46,0,2,100
+1968315,1574826,2025-05-19,House,"On Motion to Suspend the Rules and Pass RC# 132",334,51,0,47,432
+1968341,1574977,2025-05-20,House,"On Motion to Suspend the Rules and Pass RC# 136",412,11,0,10,433
+1968346,1543946,2025-04-09,House,"On Motion to Suspend the Rules and Pass RC# 99",424,0,0,9,433
+1970497,1526131,2025-03-24,House,"On Motion to Suspend the Rules and Pass RC# 73",372,35,0,24,431
+1970523,1573994,2025-05-19,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 133",386,1,0,45,432
+1970654,1494189,2025-02-18,Senate,"On the Motion to Proceed S.Con.Res. 7 RC# 58",50,47,0,3,100
+1970654,1496504,2025-02-20,Senate,"On the Amendment S.Amdt. 316 to S.Con.Res. 7 (No short title on file) RC# 6",48,52,0,0,100
+1970654,1496505,2025-02-20,Senate,"On the Amendment S.Amdt. 473 to S.Con.Res. 7 (No short title on file) RC# 64",48,52,0,0,100
+1970654,1496506,2025-02-20,Senate,"On the Amendment S.Amdt. 878 to S.Con.Res. 7 (No short title on file) RC# 66",47,53,0,0,100
+1970654,1496507,2025-02-20,Senate,"On the Amendment S.Amdt. 540 to S.Con.Res. 7 (No short title on file) RC# 68",48,52,0,0,100
+1970654,1496508,2025-02-20,Senate,"On the Amendment S.Amdt. 1029 to S.Con.Res. 7 (No short title on file) RC# 70",51,49,0,0,100
+1970654,1496509,2025-02-20,Senate,"On the Amendment S.Amdt. 407 to S.Con.Res. 7 (No short title on file) RC# 72",49,51,0,0,100
+1970654,1496510,2025-02-21,Senate,"On the Amendment S.Amdt. 299 to S.Con.Res. 7 (No short title on file) RC# 76",47,53,0,0,100
+1970654,1496511,2025-02-21,Senate,"On the Amendment S.Amdt. 999 to S.Con.Res. 7 (No short title on file) RC# 77",24,76,0,0,100
+1970654,1496512,2025-02-21,Senate,"On the Amendment S.Amdt. 664 to S.Con.Res. 7 (No short title on file) RC# 78",47,53,0,0,100
+1970654,1496513,2025-02-21,Senate,"On the Amendment S.Amdt. 436 to S.Con.Res. 7 (No short title on file) RC# 80",48,52,0,0,100
+1970654,1496514,2025-02-21,Senate,"On the Amendment S.Amdt. 699 to S.Con.Res. 7 (No short title on file) RC# 81",48,52,0,0,100
+1970654,1496515,2025-02-21,Senate,"On the Amendment S.Amdt. 971 to S.Con.Res. 7 (No short title on file) RC# 82",49,51,0,0,100
+1970654,1496516,2025-02-21,Senate,"On the Amendment S.Amdt. 659 to S.Con.Res. 7 (No short title on file) RC# 83",47,52,0,1,100
+1970654,1496517,2025-02-21,Senate,"On the Amendment S.Amdt. 957 to S.Con.Res. 7 (No short title on file) RC# 84",47,53,0,0,100
+1970654,1496518,2025-02-21,Senate,"On the Amendment S.Amdt. 922 to S.Con.Res. 7 (No short title on file) RC# 85",53,47,0,0,100
+1970654,1496519,2025-02-21,Senate,"On the Amendment S.Amdt. 1207 to S.Con.Res. 7 (No short title on file) RC# 86",49,51,0,0,100
+1970654,1496520,2025-02-21,Senate,"On the Concurrent Resolution S.Con.Res. 7 RC# 87",52,48,0,0,100
+1970871,1528870,2025-03-26,Senate,"On the Motion to Proceed S.J.Res. 18 RC# 152",52,47,0,1,100
+1970871,1530741,2025-03-27,Senate,"On the Joint Resolution S.J.Res. 18 RC# 153",52,48,0,0,100
+1970871,1543958,2025-04-09,House,"On Passage RC# 96",217,211,0,5,433
+1974603,1499740,2025-02-25,House,"On Agreeing to the Resolution, as Amended RC# 50",217,215,0,1,433
+1974603,1537132,2025-04-03,Senate,"On the Motion to Proceed H.Con.Res. 14 RC# 169",52,48,0,0,100
+1974603,1537668,2025-04-05,Senate,"On the Amendment S.Amdt. 2152 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 10",47,52,0,1,100
+1974603,1537669,2025-04-04,Senate,"On the Amendment S.Amdt. 1760 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 17",5,94,0,1,100
+1974603,1537670,2025-04-05,Senate,"On the Amendment S.Amdt. 1989 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 18",49,50,0,1,100
+1974603,1537671,2025-04-04,Senate,"On the Amendment S.Amdt. 2035 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 170",51,48,0,1,100
+1974603,1537672,2025-04-04,Senate,"On the Amendment S.Amdt. 1758 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 171",46,53,0,1,100
+1974603,1537673,2025-04-04,Senate,"On the Amendment S.Amdt. 1645 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 172",48,51,0,1,100
+1974603,1537674,2025-04-04,Senate,"On the Amendment S.Amdt. 1726 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 173",47,51,0,2,100
+1974603,1537675,2025-04-04,Senate,"On the Amendment S.Amdt. 1310 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 174",46,53,0,1,100
+1974603,1537676,2025-04-04,Senate,"On the Amendment S.Amdt. 1466 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 175",48,51,0,1,100
+1974603,1537677,2025-04-04,Senate,"On the Amendment S.Amdt. 1884 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 176",46,53,0,1,100
+1974603,1537678,2025-04-04,Senate,"On the Amendment S.Amdt. 1774 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 177",48,51,0,1,100
+1974603,1537679,2025-04-04,Senate,"On the Amendment S.Amdt. 1646 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 178",48,51,0,1,100
+1974603,1537680,2025-04-04,Senate,"On the Amendment S.Amdt. 2186 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 180",49,50,0,1,100
+1974603,1537681,2025-04-05,Senate,"On the Amendment S.Amdt. 2107 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 181",48,51,0,1,100
+1974603,1537682,2025-04-05,Senate,"On the Amendment S.Amdt. 2180 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 182",48,51,0,1,100
+1974603,1537683,2025-04-05,Senate,"On the Amendment S.Amdt. 1644 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 183",49,50,0,1,100
+1974603,1537684,2025-04-05,Senate,"On the Amendment S.Amdt. 2126 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 184",47,52,0,1,100
+1974603,1537685,2025-04-05,Senate,"On the Amendment S.Amdt. 1693 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 186",49,50,0,1,100
+1974603,1537686,2025-04-05,Senate,"On the Amendment S.Amdt. 1529 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 187",48,51,0,1,100
+1974603,1537687,2025-04-05,Senate,"On the Amendment S.Amdt. 2177 to S.Amdt. 1717 to H.Con.Res. 14 (No short title on file) RC# 188",48,51,0,1,100
+1974603,1537688,2025-04-05,Senate,"On the Concurrent Resolution H.Con.Res. 14 RC# 191",51,48,0,1,100
+1974612,1562234,2025-04-29,House,"On Motion to Suspend the Rules and Pass RC# 107",409,15,0,9,433
+1974622,1561948,2025-04-29,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 108",378,42,0,12,432
+1980603,1534022,2025-04-01,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 88",423,0,0,8,431
+1980663,1568100,2025-05-07,House,"On Motion to Suspend the Rules and Pass RC# 119",406,1,0,25,432
+1980673,1562491,2025-04-29,House,"On Passage RC# 110",219,205,0,9,433
+1980673,1567684,2025-05-06,Senate,"On the Motion to Proceed H.J.Res. 60 RC# 236",53,47,0,0,100
+1980673,1569032,2025-05-08,Senate,"On the Joint Resolution H.J.Res. 60 RC# 239",50,43,0,7,100
+1982468,1527836,2025-03-25,House,"On Motion to Suspend the Rules and Pass RC# 74",350,73,0,8,431
+1982528,1543947,2025-04-09,House,"On Motion to Recommit RC# 97",212,217,0,4,433
+1982528,1543948,2025-04-09,House,"On Passage RC# 98",219,213,0,1,433
+1983870,1499692,2025-02-25,House,"On Ordering the Previous Question RC# 46",216,210,0,7,433
+1983870,1499693,2025-02-25,House,"On Agreeing to the Resolution RC# 47",217,211,0,5,433
+1983901,1507511,2025-03-05,House,"On Passage RC# 58",216,202,0,14,432
+1983901,1566883,2025-05-05,Senate,"On the Motion to Proceed H.J.Res. 61 RC# 231",51,43,0,6,100
+1983901,1567583,2025-05-06,Senate,"On the Joint Resolution H.J.Res. 61 RC# 232",55,45,0,0,100
+1984401,1537659,2025-04-03,Senate,"On the Motion to Discharge S.J.Res. 26 RC# 166",15,83,1,1,100
+1986248,1584555,2025-06-03,House,"On Motion to Suspend the Rules and Pass RC# 146",396,5,0,30,431
+1987948,1598531,2025-07-14,House,"On Motion to Suspend the Rules and Pass RC# 191",360,10,0,61,431
+1987955,1598536,2025-07-15,House,"On Motion to Suspend the Rules and Pass RC# 196",380,33,0,19,432
+1988237,1506531,2025-03-04,Senate,"On the Motion to Proceed S.J.Res. 28 RC# 103",50,47,0,3,100
+1988237,1507924,2025-03-05,Senate,"On the Joint Resolution S.J.Res. 28 RC# 106",51,47,0,2,100
+1988237,1543959,2025-04-09,House,"On Passage RC# 95",219,211,0,3,433
+1990428,1585154,2025-06-03,House,"On Motion to Suspend the Rules and Pass RC# 147",405,3,0,24,432
+1990438,1598528,2025-07-14,House,"On Motion to Suspend the Rules and Pass RC# 192",336,36,0,59,431
+1990463,1506629,2025-03-04,House,"On Ordering the Previous Question RC# 56",196,187,0,49,432
+1990463,1506630,2025-03-04,House,"On Agreeing to the Resolution RC# 57",211,209,0,13,433
+1993059,1506988,2025-03-05,House,"On Motion to Table RC# 60",209,211,1,11,432
+1993059,1508749,2025-03-06,House,"On Agreeing to the Resolution RC# 62",224,198,2,8,432
+1994350,1598922,2025-07-17,House,"On Passage RC# 201",219,210,0,3,432
+1994416,1599069,2025-07-22,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 216",360,57,0,13,430
+1994577,1564078,2025-04-30,Senate,"On the Motion to Proceed S.J.Res. 31 RC# 227",52,40,0,8,100
+1994577,1564640,2025-05-01,Senate,"On the Joint Resolution S.J.Res. 31 RC# 229",52,46,0,2,100
+1994577,1576141,2025-05-22,House,"On Passage RC# 143",216,212,0,4,432
+1999374,1594742,2025-06-23,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 172",392,14,0,25,431
+1999380,1599206,2025-07-30,Senate,"On the Motion to Discharge S.J.Res. 34 RC# 455",24,73,0,3,100
+1999390,1537419,2025-04-03,Senate,"On the Motion to Discharge S.J.Res. 33 RC# 165",15,82,1,2,100
+1999391,1515621,2025-03-11,House,"On Motion to Recommit RC# 69",213,216,0,3,432
+1999391,1515622,2025-03-11,House,"On Passage RC# 70",217,213,0,2,432
+1999391,1518228,2025-03-14,Senate,"On the Amendment S.Amdt. 1273 to H.R. 1968 (No short title on file) RC# 12",47,53,0,0,100
+1999391,1518229,2025-03-14,Senate,"On the Cloture Motion H.R. 1968 RC# 128",62,38,0,0,100
+1999391,1518230,2025-03-14,Senate,"On the Amendment S.Amdt. 1274 to H.R. 1968 (No short title on file) RC# 130",47,53,0,0,100
+1999391,1518231,2025-03-14,Senate,"On the Amendment S.Amdt. 1272 to H.R. 1968 (No short title on file) RC# 131",48,52,0,0,100
+1999391,1518232,2025-03-14,Senate,"On the Amendment S.Amdt. 1266 to H.R. 1968 (No short title on file) RC# 132",27,73,0,0,100
+1999391,1518233,2025-03-14,Senate,"On Passage of the Bill H.R. 1968 RC# 133",54,46,0,0,100
+1999397,1530694,2025-03-27,House,"On Passage RC# 78",214,193,0,23,430
+1999397,1563374,2025-04-30,Senate,"On the Motion to Proceed H.J.Res. 75 RC# 224",52,46,0,2,100
+1999397,1564488,2025-05-01,Senate,"On the Joint Resolution H.J.Res. 75 RC# 228",52,45,0,3,100
+2000358,1590237,2025-06-12,House,"On Motion to Recommit RC# 170",205,215,0,12,432
+2000358,1590238,2025-06-12,House,"On Passage RC# 171",224,194,0,14,432
+2000378,1515618,2025-03-11,House,"On Ordering the Previous Question RC# 66",216,212,0,4,432
+2000378,1515619,2025-03-11,House,"On Agreeing to the Resolution RC# 67",216,214,0,2,432
+2000384,1587205,2025-06-09,House,"On Motion to Suspend the Rules and Pass RC# 157",373,14,0,44,431
+2000455,1535780,2025-04-02,Senate,"On the Joint Resolution S.J.Res. 37 RC# 160",51,48,0,1,100
+2008570,1588427,2025-06-10,House,"On Passage RC# 162",235,178,1,18,432
+2010634,1572497,2025-05-14,House,"On Motion to Suspend the Rules and Pass RC# 125",382,31,0,19,432
+2012832,1572737,2025-05-15,House,"On Passage RC# 130",234,182,0,17,433
+2012837,1564527,2025-05-01,House,"On Passage RC# 113",216,195,0,22,433
+2012854,1572242,2025-05-14,House,"On Passage RC# 128",229,193,0,11,433
+2012855,1572587,2025-05-15,House,"On Passage RC# 131",403,11,0,19,433
+2013971,1527889,2025-03-25,House,"On Ordering the Previous Question RC# 75",215,208,0,8,431
+2013971,1527890,2025-03-25,House,"On Agreeing to the Resolution RC# 76",214,207,0,10,431
+2016734,1599217,2025-07-30,Senate,"On the Motion to Discharge S.J.Res. 41 RC# 454",27,70,0,3,100
+2017703,1585459,2025-06-04,House,"On Agreeing to the Amendment: Pettersen of Colorado Part A Amendment No. 3 RC# 150",213,213,0,12,438
+2017703,1585460,2025-06-04,House,"On Passage RC# 151",366,57,0,9,432
+2018668,1533927,2025-04-01,House,"On Ordering the Previous Question RC# 86",215,213,0,3,431
+2018668,1533928,2025-04-01,House,"On Agreeing to the Resolution RC# 87",206,222,0,3,431
+2019689,1564671,2025-05-01,House,"On Passage RC# 114",246,164,0,22,432
+2019689,1576593,2025-05-21,Senate,"On the Motion to Proceed H.J.Res. 88 RC# 276",51,46,0,3,100
+2019689,1576827,2025-05-22,Senate,"On the Joint Resolution H.J.Res. 88 RC# 277",51,44,0,5,100
+2019800,1563307,2025-04-30,House,"On Passage RC# 112",225,196,0,12,433
+2019800,1576828,2025-05-22,Senate,"On the Motion to Proceed H.J.Res. 89 RC# 280",51,46,0,3,100
+2019800,1576829,2025-05-22,Senate,"On the Joint Resolution H.J.Res. 89 RC# 281",49,46,0,5,100
+2020019,1564107,2025-04-30,House,"On Passage RC# 111",231,191,0,11,433
+2020019,1576830,2025-05-22,Senate,"On the Motion to Proceed H.J.Res. 87 RC# 278",51,46,0,3,100
+2020019,1576831,2025-05-22,Senate,"On the Joint Resolution H.J.Res. 87 RC# 279",51,45,0,4,100
+2021794,1543956,2025-04-08,House,"On Ordering the Previous Question RC# 91",213,211,0,9,433
+2021794,1543957,2025-04-08,House,"On Agreeing to the Resolution RC# 92",213,211,0,9,433
+2022458,1543965,2025-04-09,House,"On Ordering the Previous Question RC# 93",217,212,0,3,432
+2022458,1543966,2025-04-09,House,"On Agreeing to the Resolution RC# 94",216,215,0,2,433
+2023132,1563369,2025-04-30,Senate,"On the Joint Resolution S.J.Res. 49 RC# 225",49,49,0,2,100
+2025051,1586207,2025-06-06,House,"On Passage RC# 156",217,190,0,25,432
+2025061,1586111,2025-06-05,House,"On Motion to Recommit RC# 152",202,210,0,20,432
+2025061,1586112,2025-06-05,House,"On Passage RC# 153",211,199,0,22,432
+2026642,1572363,2025-05-14,House,"On Motion to Suspend the Rules and Agree RC# 129",421,1,0,11,433
+2026650,1586181,2025-06-05,House,"On Motion to Recommit RC# 154",201,212,0,19,432
+2026650,1586182,2025-06-05,House,"On Passage RC# 155",214,198,0,20,432
+2027043,1561937,2025-04-29,House,"On Ordering the Previous Question RC# 105",215,206,0,11,432
+2027043,1561938,2025-04-29,House,"On Agreeing to the Resolution RC# 106",216,208,0,9,433
+2027730,1598991,2025-07-21,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 213",278,121,0,31,430
+2028140,1568851,2025-05-08,Senate,"On Cloture on the Motion to Proceed S. 1582 RC# 240",48,49,0,3,100
+2028140,1573896,2025-05-19,Senate,"On Cloture on the Motion to Proceed S. 1582 RC# 262",66,32,0,2,100
+2028140,1576292,2025-05-21,Senate,"On the Motion to Proceed S. 1582 RC# 263",69,31,0,0,100
+2028140,1590251,2025-06-12,Senate,"On the Amendment S.Amdt. 2307 to S. 1582 (No short title on file) RC# 311",67,30,0,3,100
+2028140,1590252,2025-06-12,Senate,"On the Cloture Motion S. 1582 RC# 312",67,27,0,6,100
+2028140,1592067,2025-06-17,Senate,"On Passage of the Bill S. 1582 RC# 318",68,30,0,2,100
+2028140,1598924,2025-07-17,House,"On Passage RC# 200",308,122,0,2,432
+2028146,1572723,2025-05-15,Senate,"On the Motion to Discharge S.Res. 195 RC# 259",45,50,0,5,100
+2028776,1567050,2025-05-06,House,"On Ordering the Previous Question RC# 117",206,200,0,27,433
+2028776,1567051,2025-05-06,House,"On Agreeing to the Resolution RC# 118",213,209,0,11,433
+2028814,1598365,2025-07-14,House,"On Motion to Suspend the Rules and Pass RC# 193",372,0,0,59,431
+2029310,1571024,2025-05-13,House,"On Motion to Suspend the Rules and Agree RC# 123",411,1,0,21,433
+2031134,1599082,2025-07-23,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 217",381,31,0,18,430
+2031168,1598988,2025-07-21,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 214",387,12,0,31,430
+2031197,1572243,2025-05-14,House,"On Ordering the Previous Question RC# 126",216,204,0,13,433
+2031197,1572244,2025-05-14,House,"On Agreeing to the Resolution RC# 127",216,203,0,14,433
+2032015,1594739,2025-06-23,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 173",397,12,0,23,432
+2032050,1590201,2025-06-11,Senate,"On the Motion to Discharge S.J.Res. 54 RC# 307",39,56,1,4,100
+2032063,1594741,2025-06-23,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 174",321,87,0,23,431
+2032091,1601426,2025-09-08,House,"On Motion to Suspend the Rules and Pass RC# 240",397,1,0,32,430
+2032096,1590178,2025-06-11,Senate,"On the Motion to Discharge S.J.Res. 53 RC# 306",39,56,1,4,100
+2032143,1601683,2025-09-08,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 241",402,0,0,28,430
+2032609,1602040,2025-09-11,House,"On Passage RC# 264",226,197,0,9,432
+2032616,1575403,2025-05-20,House,"On Ordering the Previous Question RC# 134",215,207,0,11,433
+2032616,1575404,2025-05-20,House,"On Agreeing to the Resolution RC# 135",210,208,0,15,433
+2032623,1576379,2025-05-21,Senate,"On the Motion to Proceed S.J.Res. 55 RC# 264",53,46,0,1,100
+2032623,1576380,2025-05-21,Senate,"On the Motion to Table S.J.Res. 55 RC# 265",46,52,0,2,100
+2032623,1576381,2025-05-21,Senate,"On the Motion to Table S.J.Res. 55 RC# 266",51,46,0,3,100
+2032623,1576382,2025-05-21,Senate,"On the Point of Order S.J.Res. 55 RC# 273",51,46,0,3,100
+2032623,1576383,2025-05-21,Senate,"On the Point of Order S.J.Res. 55 RC# 274",51,46,0,3,100
+2032623,1576384,2025-05-21,Senate,"On the Joint Resolution S.J.Res. 55 RC# 275",51,46,0,3,100
+2032901,1576302,2025-05-22,House,"On Motion to Recommit RC# 144",212,216,0,4,432
+2032901,1576303,2025-05-22,House,"On Passage RC# 145",215,214,1,2,432
+2032901,1597310,2025-06-30,Senate,"On the Motion (Padilla Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 353",47,53,0,0,100
+2032901,1597311,2025-07-01,Senate,"On the Amendment S.Amdt. 2849 to S.Amdt. 2848 to S.Amdt. 2360 to H.R. 1 RC# 36",45,55,0,0,100
+2032901,1597312,2025-07-01,Senate,"On the Motion (Bennet Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 354",47,53,0,0,100
+2032901,1597313,2025-07-01,Senate,"On the Motion (Wyden Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 357",47,53,0,0,100
+2032901,1597314,2025-07-01,Senate,"On the Amendment S.Amdt. 2382 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 358",50,50,0,0,100
+2032901,1597315,2025-07-01,Senate,"On the Motion (Warnock Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 359",48,51,0,1,100
+2032901,1597316,2025-07-01,Senate,"On the Amendment S.Amdt. 2745 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 360",21,79,0,0,100
+2032901,1597317,2025-07-01,Senate,"On the Amendment S.Amdt. 2817 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 361",48,52,0,0,100
+2032901,1597318,2025-07-01,Senate,"On the Amendment S.Amdt. 2435 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 362",47,53,0,0,100
+2032901,1597319,2025-07-01,Senate,"On the Amendment S.Amdt. 2814 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 363",99,1,0,0,100
+2032901,1597320,2025-07-01,Senate,"On the Amendment S.Amdt. 2717 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 364",47,53,0,0,100
+2032901,1597321,2025-07-01,Senate,"On the Amendment S.Amdt. 2719 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 365",48,52,0,0,100
+2032901,1597322,2025-07-01,Senate,"On the Amendment S.Amdt. 2564 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 366",49,51,0,0,100
+2032901,1597323,2025-07-01,Senate,"On the Amendment S.Amdt. 2847 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 367",50,50,0,0,100
+2032901,1597324,2025-07-01,Senate,"On the Amendment S.Amdt. 2585 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 368",50,50,0,0,100
+2032901,1597325,2025-07-01,Senate,"On the Amendment S.Amdt. 2848 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 370",50,50,0,0,100
+2032901,1597326,2025-07-01,Senate,"On the Amendment S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 371",50,50,0,0,100
+2032901,1597327,2025-07-01,Senate,"On Passage of the Bill H.R. 1 RC# 372",50,50,0,0,100
+2032901,1597560,2025-07-03,House,"On Motion to Concur in the Senate Amendment RC# 190",218,214,0,0,432
+2032901,1597992,2025-06-30,Senate,"On the Motion (Schumer Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 332",47,53,0,0,100
+2032901,1597993,2025-06-30,Senate,"On the Motion (Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 333",49,51,0,0,100
+2032901,1597994,2025-06-30,Senate,"On the Motion (Motion to Waive Section 425(a)(2) of the CBA re: H.R. 1) RC# 334",51,48,0,1,100
+2032901,1597995,2025-06-30,Senate,"On the Motion (Wyden Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 335",47,53,0,0,100
+2032901,1597996,2025-06-30,Senate,"On the Motion (Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 336",48,52,0,0,100
+2032901,1597997,2025-06-30,Senate,"On the Motion (Lujan Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 337",49,51,0,0,100
+2032901,1597998,2025-06-30,Senate,"On the Motion (Reed Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 338",48,52,0,0,100
+2032901,1597999,2025-06-30,Senate,"On the Motion (Blunt Rochester Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 340",48,52,0,0,100
+2032901,1598000,2025-06-30,Senate,"On the Motion (Kaine Motion to Commit H.R. 1 to the Committee on Homeland Security and Governmental Affairs with Instructions) RC# 346",47,53,0,0,100
+2032901,1598001,2025-06-30,Senate,"On the Motion (Blumenthal Motion to Commit H.R. 1 to the Committee on Armed Services with Instructions) RC# 347",47,53,0,0,100
+2032901,1598002,2025-06-30,Senate,"On the Motion (Gallego Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 348",47,53,0,0,100
+2032901,1598003,2025-06-30,Senate,"On the Motion (Hassan Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 349",48,52,0,0,100
+2032901,1598004,2025-06-30,Senate,"On the Motion (Duckworth Motion to Commit H.R. 1 to the Committee on Agriculture, Nutrition, and Forestry with Instructions) RC# 350",49,51,0,0,100
+2032901,1598005,2025-06-30,Senate,"On the Motion (Schiff Motion to Commit H.R. 1 to the Committee on Agriculture, Nutrition, and Forestry with Instructions) RC# 351",47,53,0,0,100
+2032901,1598146,2025-06-28,Senate,"On the Motion to Proceed H.R. 1 RC# 329",51,49,0,0,100
+2033229,1575889,2025-05-22,House,"On Consideration of the Resolution RC# 139",217,211,0,4,432
+2033229,1575890,2025-05-22,House,"On Consideration of the Resolution RC# 140",216,211,0,5,432
+2033229,1575891,2025-05-22,House,"On Ordering the Previous Question RC# 141",213,211,0,8,432
+2033229,1575892,2025-05-22,House,"On Agreeing to the Resolution RC# 142",217,212,0,3,432
+2034656,1598921,2025-07-17,House,"On Passage RC# 199",294,134,0,4,432
+2035414,1585655,2025-06-04,House,"On Ordering the Previous Question RC# 148",213,206,0,12,431
+2035414,1585656,2025-06-04,House,"On Agreeing to the Resolution RC# 149",217,208,0,7,432
+2035843,1587204,2025-06-09,House,"On Motion to Suspend the Rules and Agree RC# 159",400,0,2,30,432
+2036128,1590261,2025-06-12,House,"On Motion to Recommit RC# 167",208,218,0,6,432
+2036128,1590262,2025-06-12,House,"On Passage RC# 168",214,212,0,6,432
+2036128,1598534,2025-07-15,Senate,"On the Motion to Discharge H.R. 4 RC# 391",50,50,0,0,100
+2036128,1598535,2025-07-15,Senate,"On the Motion to Proceed H.R. 4 RC# 392",50,50,0,0,100
+2036128,1598800,2025-07-16,Senate,"On the Amendment S.Amdt. 2856 to S.Amdt. 2853 to H.R. 4 (No short title on file) RC# 33",49,50,0,1,100
+2036128,1598801,2025-07-16,Senate,"On the Amendment S.Amdt. 2855 to S.Amdt. 2853 to H.R. 4 (No short title on file) RC# 37",47,52,0,1,100
+2036128,1598802,2025-07-16,Senate,"On the Motion to Recommit H.R. 4 RC# 394",48,51,0,1,100
+2036128,1598803,2025-07-16,Senate,"On the Motion to Recommit H.R. 4 RC# 395",48,51,0,1,100
+2036128,1598804,2025-07-16,Senate,"On the Motion to Recommit H.R. 4 RC# 396",48,51,0,1,100
+2036128,1598805,2025-07-16,Senate,"On the Motion to Recommit H.R. 4 RC# 398",48,51,0,1,100
+2036128,1598806,2025-07-16,Senate,"On the Motion to Recommit H.R. 4 RC# 399",47,52,0,1,100
+2036128,1598807,2025-07-16,Senate,"On the Amendment S.Amdt. 2862 to S.Amdt. 2853 to H.R. 4 (No short title on file) RC# 400",46,51,0,3,100
+2036128,1598808,2025-07-16,Senate,"On the Motion to Recommit H.R. 4 RC# 401",47,50,0,3,100
+2036128,1598809,2025-07-16,Senate,"On the Amendment S.Amdt. 2878 to S.Amdt. 2853 to H.R. 4 (No short title on file) RC# 402",48,51,0,1,100
+2036128,1598810,2025-07-16,Senate,"On the Motion to Recommit H.R. 4 RC# 403",48,51,0,1,100
+2036128,1598811,2025-07-17,Senate,"On the Amendment S.Amdt. 2863 to S.Amdt. 2853 to H.R. 4 (No short title on file) RC# 40",48,51,0,1,100
+2036128,1598812,2025-07-17,Senate,"On the Amendment S.Amdt. 2887 to S.Amdt. 2853 to H.R. 4 (No short title on file) RC# 404",48,51,0,1,100
+2036128,1598813,2025-07-17,Senate,"On the Motion to Table S.Amdt. 2893 to S.Amdt. 2853 to H.R. 4 (No short title on file) RC# 405",51,47,0,2,100
+2036128,1598814,2025-07-17,Senate,"On the Amendment S.Amdt. 2865 to S.Amdt. 2853 to H.R. 4 (No short title on file) RC# 406",47,51,0,2,100
+2036128,1598815,2025-07-17,Senate,"On the Amendment S.Amdt. 2898 to S.Amdt. 2853 to H.R. 4 (No short title on file) RC# 407",49,50,0,1,100
+2036128,1598816,2025-07-17,Senate,"On the Amendment S.Amdt. 2896 to S.Amdt. 2853 to H.R. 4 (No short title on file) RC# 408",48,51,0,1,100
+2036128,1598817,2025-07-17,Senate,"On the Amendment S.Amdt. 2853 to H.R. 4 (No short title on file) RC# 410",52,47,0,1,100
+2036128,1598818,2025-07-17,Senate,"On Passage of the Bill H.R. 4 RC# 411",51,48,0,1,100
+2036424,1587200,2025-06-09,House,"On Motion to Suspend the Rules and Agree RC# 158",280,113,6,33,432
+2036439,1602041,2025-09-10,House,"On Motion to Recommit RC# 261",208,219,0,5,432
+2036439,1602042,2025-09-10,House,"On Passage RC# 262",231,196,0,5,432
+2036458,1588411,2025-06-10,House,"On Ordering the Previous Question RC# 160",213,206,0,13,432
+2036458,1588412,2025-06-10,House,"On Agreeing to the Resolution RC# 161",211,206,0,15,432
+2036986,1589419,2025-06-11,House,"On Ordering the Previous Question RC# 164",210,204,0,18,432
+2036986,1589420,2025-06-11,House,"On Agreeing to the Resolution RC# 165",213,207,0,12,432
+2036995,1599070,2025-07-22,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 215",410,1,0,19,430
+2037280,1595342,2025-06-25,House,"On Agreeing to the Amendment: Carter of Texas Amendment En Bloc No. 2 RC# 180",219,206,0,13,438
+2037280,1595343,2025-06-25,House,"On Motion to Recommit RC# 181",208,216,0,8,432
+2037280,1595344,2025-06-25,House,"On Passage RC# 182",218,206,0,8,432
+2037280,1599067,2025-07-22,Senate,"On Cloture on the Motion to Proceed H.R. 3944 RC# 423",91,7,0,2,100
+2037280,1599075,2025-07-23,Senate,"On the Motion to Proceed H.R. 3944 RC# 428",90,8,0,2,100
+2037280,1599232,2025-08-01,Senate,"On the Amendment S.Amdt. 3411 to H.R. 3944 (No short title on file) RC# 47",87,9,0,4,100
+2037280,1599233,2025-08-01,Senate,"On the Amendment S.Amdt. 3447 to S.Amdt. 3411 to H.R. 3944 (No short title on file) RC# 473",44,51,0,5,100
+2037280,1599234,2025-08-01,Senate,"On the Amendment S.Amdt. 3115 to S.Amdt. 3411 to H.R. 3944 (No short title on file) RC# 474",42,53,0,5,100
+2037280,1599235,2025-08-01,Senate,"On the Amendment S.Amdt. 3466 to S.Amdt. 3411 to H.R. 3944 (No short title on file) RC# 475",45,50,0,5,100
+2037280,1599236,2025-08-01,Senate,"On the Amendment S.Amdt. 3414 to S.Amdt. 3411 to H.R. 3944 (No short title on file) RC# 476",14,81,0,5,100
+2037280,1599237,2025-08-01,Senate,"On the Amendment S.Amdt. 3113 to S.Amdt. 3411 to H.R. 3944 (No short title on file) RC# 477",15,81,0,4,100
+2037280,1599238,2025-08-01,Senate,"On the Amendment S.Amdt. 3428 to S.Amdt. 3411 to H.R. 3944 (No short title on file) RC# 478",21,75,0,4,100
+2037280,1599239,2025-08-01,Senate,"On Passage of the Bill H.R. 3944 RC# 480",87,9,0,4,100
+2037280,1602043,2025-09-11,House,"On Motion to Instruct Conferees RC# 263",211,213,0,8,432
+2037439,1596065,2025-06-27,Senate,"On the Motion to Discharge S.J.Res. 59 RC# 328",47,53,0,0,100
+2037445,1598912,2025-07-18,House,"On Agreeing to the Amendment: Greene of Georgia Part A Amendment No. 116 RC# 20",76,353,0,8,437
+2037445,1598913,2025-07-18,House,"On Agreeing to the Amendment: Greene of Georgia Part A Amendment No. 111 RC# 204",63,365,0,9,437
+2037445,1598914,2025-07-18,House,"On Agreeing to the Amendment: Greene of Georgia Part A Amendment No. 112 RC# 205",6,421,0,10,437
+2037445,1598915,2025-07-18,House,"On Agreeing to the Amendment: Greene of Georgia Part A Amendment No. 113 RC# 206",104,326,0,7,437
+2037445,1598916,2025-07-18,House,"On Agreeing to the Amendment: Greene of Georgia Part A Amendment No. 114 RC# 207",6,422,0,9,437
+2037445,1598917,2025-07-18,House,"On Agreeing to the Amendment: Greene of Georgia Part A Amendment No. 115 RC# 208",30,400,0,7,437
+2037445,1598918,2025-07-18,House,"On Agreeing to the Amendment: Steube of Florida Part A Amendment No. 277 RC# 210",76,355,0,6,437
+2037445,1598919,2025-07-18,House,"On Motion to Recommit RC# 211",211,219,0,2,432
+2037445,1598920,2025-07-18,House,"On Passage RC# 212",221,209,0,2,432
+2037519,1596067,2025-06-27,House,"On Agreeing to the Resolution RC# 185",215,195,0,22,432
+2037532,1595412,2025-06-25,House,"On Motion to Suspend the Rules and Agree, as Amended RC# 179",424,0,0,8,432
+2037980,1594761,2025-06-24,House,"On Ordering the Previous Question RC# 176",219,208,0,5,432
+2037980,1594762,2025-06-24,House,"On Agreeing to the Resolution RC# 177",217,206,0,9,432
+2038091,1601066,2025-09-03,House,"On Motion to Table RC# 223",215,207,2,7,431
+2038094,1594745,2025-06-24,House,"On Motion to Table RC# 175",344,79,0,9,432
+2038609,1601024,2025-09-02,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 219",395,20,0,15,430
+2038906,1599074,2025-07-23,House,"On Motion to Suspend the Rules and Pass, as Amended RC# 218",399,12,0,19,430
+2038909,1597557,2025-07-02,House,"On Consideration of the Resolution RC# 186",212,211,0,9,432
+2038909,1597558,2025-07-02,House,"On Agreeing to the Amendment: Foxx of North Carolina Amendment RC# 188",220,212,0,0,432
+2038909,1597559,2025-07-03,House,"On Agreeing to the Resolution, as Amended RC# 189",219,213,0,0,432
+2039183,1601047,2025-09-03,House,"On Passage RC# 224",211,208,0,12,431
+2039190,1601026,2025-09-03,House,"On Passage RC# 226",215,211,0,5,431
+2039431,1601067,2025-09-03,House,"On Passage RC# 225",215,210,0,6,431
+2039530,1600859,2025-09-02,Senate,"On Cloture on the Motion to Proceed S. 2296 RC# 500",84,14,0,2,100
+2039530,1601200,2025-09-04,Senate,"On the Motion to Proceed S. 2296 RC# 503",83,13,0,4,100
+2039549,1598532,2025-07-15,House,"On Ordering the Previous Question RC# 194",211,210,0,11,432
+2039549,1598533,2025-07-15,House,"On Agreeing to the Resolution RC# 195",196,223,0,13,432
+2039549,1598823,2025-07-16,House,"On Motion to Reconsider RC# 197",215,211,0,6,432
+2039549,1598824,2025-07-16,House,"On Agreeing to the Resolution RC# 198",217,212,0,3,432
+2039893,1598910,2025-07-17,House,"On Ordering the Previous Question RC# 202",218,211,0,3,432
+2039893,1598911,2025-07-18,House,"On Agreeing to the Resolution RC# 203",216,213,0,3,432
+2040035,1601196,2025-09-04,House,"On Motion to Recommit RC# 238",209,218,0,4,431
+2040035,1601197,2025-09-04,House,"On Passage RC# 239",214,213,0,4,431
+2043185,1601022,2025-09-03,House,"On Ordering the Previous Question RC# 221",212,209,0,10,431
+2043185,1601023,2025-09-03,House,"On Agreeing to the Resolution RC# 222",212,208,1,10,431
+2043496,1601700,2025-09-09,Senate,"On the Motion to Table S.Res. 377 RC# 510",53,46,0,1,100
+2043496,1601701,2025-09-09,Senate,"On the Motion to Proceed S.Res. 377 RC# 511",53,45,0,2,100
+2043496,1602001,2025-09-11,Senate,"On the Cloture Motion S.Res. 377 RC# 513",52,47,0,1,100
+2043496,1602002,2025-09-11,Senate,"On the Decision of the Chair S.Res. 377 RC# 515",45,53,0,2,100
+2043496,1602003,2025-09-11,Senate,"On the Cloture Motion S.Res. 377 RC# 516",53,43,0,4,100
+2043638,1601692,2025-09-09,House,"On Ordering the Previous Question RC# 242",213,207,0,10,430
+2043638,1601693,2025-09-09,House,"On Agreeing to the Resolution RC# 243",210,207,0,14,431
